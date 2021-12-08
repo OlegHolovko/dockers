@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: java
+    build: ./
+    #restart: on-failure
+    ports:
+      - 8080:8080
+
+
