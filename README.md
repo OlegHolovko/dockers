@@ -19,4 +19,4 @@ Helpful Docker containers in my development cases
    - postgreSQL
    - pgadmin4
    - **src** for Laravel project   
-7. **java8-tomcat** -  Tomcat 8.5 + JRE8  
+7. **java8-tomcat** -  Simple Java app deployment: Tomcat 8.5 + JRE8  
