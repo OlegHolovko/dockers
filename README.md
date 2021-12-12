@@ -21,3 +21,4 @@ Helpful Docker containers in my development cases
    - **src** for Laravel project   
 7. **java8-tomcat** -  Simple Java app deployment: Tomcat 8.5 + JRE8
 8. **java8-nginx-tomcat** - Java app deployment with nGinx + Tomcat 8.5 + JRE8
+9. **java8-nginx-tomcat2** - Java app deployment with nGinx + Tomcat 8.5 + JRE8. Alternative option.
