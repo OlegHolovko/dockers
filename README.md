@@ -22,3 +22,4 @@ Helpful Docker containers in my development cases
 7. **java8-tomcat** -  Simple Java app deployment: Tomcat 8.5 + JRE8
 8. **java8-nginx-tomcat** - Java app deployment with nGinx + Tomcat 8.5 + JRE8
 9. **java8-nginx-tomcat2** - Java app deployment with nGinx + Tomcat 8.5 + JRE8. Alternative option.
+10. **java8-spring-dev** - Spring Boot for development + PostgreSQL
