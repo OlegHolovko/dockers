@@ -11,7 +11,7 @@ services:
       - ./nginx/conf.d/:/etc/nginx/conf.d/
     depends_on:
       - php
-      - db
+      - pg_db
     networks:
       - laravel
 
